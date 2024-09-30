@@ -2,5 +2,5 @@
 stack.yaml
 tests.cabal
 score.json
-.stack-work
+.stack-work/
 stack.yaml.lock
